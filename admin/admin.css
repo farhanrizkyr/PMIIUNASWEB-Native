@@ -1,0 +1,66 @@
+body{
+	background:#eaeaeaea;
+
+}
+h1{
+	font-weight: bold;
+	text-align: center;
+	font-size: 1.8em;
+}
+
+h1:hover{
+
+	font-size: 2.0em;
+}
+input{
+	outline:none;
+}
+
+form{
+	padding: 30px;
+	position: absolute;
+	box-shadow: 1px 17px 16px 7px lightgrey;
+	width: 400px;
+	top: 50%;
+	left: 50%;
+	background: white;
+	transform: translate(-50%,-50%);
+}
+
+form:hover{
+	box-shadow: 1px 17px 16px 7px white;
+
+}
+
+label{
+	font-size:20px;
+}
+input{
+	background: lightgrey;
+	border: none;
+	border-radius: 30px;
+	width: 350px;
+	padding:20px;
+	margin-bottom: 20px;
+}
+
+input:hover{
+background: grey;
+color: white;
+}
+
+
+label{
+	padding:30px;
+}
+
+
+.but{
+	background: lightgrey;
+	color: black;
+	font-size:20px;
+	border: none;
+	border-radius: 30px;
+	width: 380px;
+	padding:15px;
+}

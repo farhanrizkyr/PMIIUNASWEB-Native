@@ -1,0 +1,78 @@
+
+
+*{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+h1{
+	text-align: center;
+	
+
+}
+h1:hover{
+	text-align: center;
+	font-size: 3.0em;
+
+}
+
+.container{
+	width: 90%;
+	background: #fff;
+	border-radius:22px;
+	box-shadow:  1px 18px 19px lightgrey;
+	padding: 20px;
+}
+
+ img{
+ 	width:50px;
+ 	margin: auto;
+ 	margin-top:-14px;
+ 	float: left;
+
+
+}
+
+
+h2{
+	font-size: 1.9em;
+}
+
+.form{
+	font-size: 2.0em;
+
+}
+
+
+
+.form-control:hover{
+	font-size: 1.4em;
+	transition: 1.1s;
+	
+}
+
+input:focus{
+	outline: none;
+}
+body{
+	background: url(../news/paper/paper.png);
+}
+
+
+
+.form-control{
+	border: none;
+	border-radius: 22px;
+	border:1px solid blue;
+
+}
+
+.btn{
+background: lightblue;
+border-radius: 10px;
+margin-bottom: -22px;
+}
+
+.btn:hover{
+	transition: 1.0s;
+}

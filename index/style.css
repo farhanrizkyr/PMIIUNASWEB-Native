@@ -1,0 +1,151 @@
+
+
+.form{
+	font-family:monospace;
+	font-size: 1.3em;
+}
+.card{
+
+box-shadow: 3px 18px 17px lightgrey; 
+padding: 20px;
+border-radius: 10px;
+padding: 10px;
+}
+
+.card:hover{
+box-shadow: 3px 18px 17px grey; 
+
+
+
+}
+
+
+.display{
+	font-weight: bold;
+	font-size: 2.0em;
+}
+h3{
+	font-weight: bold;
+	font-size: 2.0em;
+	 
+
+}
+.judul{
+	color:#fff;
+	font-size: 25PX;
+	font-weight: bold;
+}
+
+.vid{
+background:white;
+width: 100%;
+background-size: cover;
+}
+
+body{
+background:#eaeaea;
+}
+
+.video{
+	font-size: 2.0em;
+	font-weight: bold;
+}
+
+
+
+.btn{
+	border:1px solid blue;
+	color:black;
+	background: white;
+	border-radius: 22px;
+	border:none;
+
+}
+.btn:hover{
+	border:1px solid yellow;
+	color:black;
+	transition:0.9s
+}
+
+.pmii{
+	border:none;
+	background:yellow;
+	width: 30%;
+	padding: 4px;
+	text-align: center;
+	color:black;
+	font-size: 13px;
+	border-radius: 10px
+}
+
+
+.fot{
+	width:30px;
+	float: left;
+}
+
+
+
+.ft{
+	font-size: 2.0em;
+}
+
+		
+
+.form-control{
+	border-radius: 10px;
+	border: 0;
+	border-bottom: 3px solid lightblue;
+	background: lightgrey;
+}
+
+
+
+iframe{
+	box-shadow: 1px 16px 15px lightgrey;
+}
+
+.btn1{
+	font-weight: bold;
+	color:black;
+	padding:10px;
+	background:white;
+	border:1px solid blue;
+	cursor:pointer;
+	border-radius: 20px;
+	width: 200px;
+	box-shadow: 1px 5px 5px black;
+
+}
+
+
+
+ marquee{
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+
+.ml-auto .dropdown-menu{ 
+ 
+ left:auto !important;
+ right: 0px;
+
+}
+
+.index{
+	width:10%;
+	height: 5%;
+}
+
+
+
+
+.container .carousel-item{
+	height:660px;
+}
+
+.container.carousel-item img{
+	margin-top:-120px;
+}
+

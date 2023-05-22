@@ -1,0 +1,14 @@
+body{
+    font: 21/22px sans-serif;
+    background:lightgrey;
+  }
+
+  .container{
+    width:70%;
+    background: white;
+  }
+
+
+  .karya{
+  	font-size: 14px;
+  }
